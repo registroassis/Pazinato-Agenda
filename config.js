@@ -11,9 +11,9 @@ window.APP_CONFIG = {
   // Login único: ao entrar, a pessoa toca no próprio nome. Tudo fica registrado nesse nome.
   usuarios: ['Danilo', 'Juninho'],
 
-  // Logo oficial da Pazinato (arquivo assets/logo.png)
-  logo: 'assets/logo.png',
-  logoHorizontal: 'assets/logo-horizontal.png', // versão sem fundo, usada no topo da tela inicial e nos PDFs
+  // Logo oficial da Pazinato (arquivo logo.png)
+  logo: 'logo.png',
+  logoHorizontal: 'logo-horizontal.png', // versão sem fundo, usada no topo da tela inicial e nos PDFs
 
   // Cores da identidade visual (ajuste a partir das cores da logo)
   cores: {
